@@ -1,0 +1,314 @@
+
+/* main tools */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body, html{
+    width: 100%;
+    height: 100%
+}
+
+
+body{
+	background-image: url("../img/white-needle.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+
+/* offer */
+
+.background__offer__main_page img{
+	position: relative;
+}
+
+.background__offer__main_page {
+	padding-top: 70px;
+	background: linear-gradient(-90deg, rgba(255,255,255,1), rgba(255,0,0,0) 70.71%);
+	width: 100%;
+	height: 98%;
+}
+
+.container__offer{
+    display: flex;
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.offer__text__main__page{
+	background-color: rgba(255,255,255,0.4);
+	margin-left: 25%;
+	
+	width: 40%;
+	border: 2px solid black;
+	text-align: center;
+	padding: 20px;
+}
+
+.offer__text__main__page p{
+	text-align: justify;
+	color: black;
+	font-size: 20px;
+	font-family: "Mplus1p-Bold";
+	padding: 25px;
+}
+
+a.button-1 {
+	color: white; 
+	text-decoration: none; 
+	background: #B22222; 
+	padding: .7em 1.5em; 
+} 
+a.button-1:hover {
+ 	background: #FF0000; 
+} 
+
+a.button-1:active {
+ 	background: #8B0000; 
+} 
+
+
+/* participating countries */
+
+
+.country{
+	text-align: center;
+}
+
+.main__container__gitler{
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.midle-text{
+	background-color: white;
+	padding: 25px 0px 25px 0px;
+}
+
+.container__antigitler{
+	padding: 25px 0px 25px 0px;
+}
+.container__gitler{
+	padding: 25px 0px 25px 0px;
+}
+
+.antigitler{
+	padding: 25px 0px 25px 0px;
+}
+
+.gitler{
+	padding: 25px 0px 25px 0px;
+}
+
+
+
+/* body content */
+
+.__container__body h1,
+.__container__body h2,
+.__container__body h3,
+.__container__body h4{
+	text-align: center;
+}
+
+.__container__body p{
+	font-family: "Mplus1p-Regular";
+	text-align: justify;
+	text-indent: 2em;
+	font-size: 18px;
+	padding: 10px 25px 10px 25px ;
+}
+
+.__container__body{
+	text-align: justify;
+	text-decoration: none;
+	width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.__container__body img{
+	padding: 15px;
+}
+
+
+.prich {
+	float: left;
+}
+
+.foto-prich-japan{
+	float: right;
+}
+
+.prich-continue{
+	float: right;
+}
+
+.chemberlen-foto{
+	float: left;
+}
+
+
+.countue-participant{
+	float: right;
+}
+
+.foto-on-day-war{
+	float: left;
+}
+
+.main-stage-2st-war{
+	float: left;
+}
+
+.foto-fight-polsha{
+	float: right;
+}
+
+.main-stage-2st-war-continue{
+	float: right;
+}
+
+.foto-polahs-company{
+	float: left;
+}
+
+.foto-November-sssr-fin-war{
+	text-align: center;
+}
+
+.main-stage-2st-war-after-continue{
+	float: right;
+}
+
+.foto-evacuation{
+	float: left;
+}
+
+.final-main-stage-2st-war{
+	float: left;
+}
+
+.foto-france-fermaht{
+	float: right;
+}
+
+.first-stage{
+	float: right;
+}
+
+.foto-evropa{
+	float: left;
+}
+
+.first-stage-continue{
+	float: right;
+}
+
+.foto-listen-radio{
+	float: left;
+}
+
+.first-stage-final{
+	float: left;
+}
+
+.foto-polozhenie-november{
+	float: right;
+}
+
+.group__photo {
+	text-align: center;
+}
+
+.foto-perlgarbor{
+	width: 40%;
+	height: 40%;
+}
+
+.foto-kontrnastyplenye{
+	width: 40%;
+	height: 40%;
+}
+
+.therd-stage{
+	float: left;
+}
+
+.foto-stalin-cherchill-ryzvelt{
+	float: right;
+}
+
+.fourth-stage{
+	float: right;
+}
+
+.foto-disembarkation-normand{
+	float: left;
+}
+
+.fourth-stage-continue{
+	float: right;
+}
+
+.foto-akt-of-capitylation{
+	float: left;
+}
+
+.second__group__photo{
+	text-align: center;
+}
+
+.foto-razrgom{
+	width: 40%;
+	height: 40%;
+}
+
+.foto-meet-on-elb{
+	width: 40%;
+	height: 40%;
+}
+
+.concentration-camp{
+	float: left;
+}
+
+.foto-osventsem-foto{
+	float: right;
+}
+
+.itogi{
+	float: right;
+}
+
+.video{
+	float: left;
+	padding: 25px;
+}
+
+.forms{
+	float: left;
+	color: white;
+	background-color: black;
+	width: 100%;
+	padding: 25px;
+
+}
+
+.forms h3{
+	text-align: left;
+	text-decoration:solid;
+	text-decoration-color: red;
+}
+
+.forms a{
+	text-decoration: none;
+	color: white;
+}
